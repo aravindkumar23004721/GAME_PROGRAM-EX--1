@@ -37,6 +37,7 @@ Apply it to any mesh in the scene (like a sphere or cube) to preview the results
 
 # Result
 Successfully implemented a material in Unreal Engine showcasing:
+
 Emissive glow using emissive color and intensity.
 Variable surface roughness to simulate different textures.
 Metallic appearance adjustment to reflect light like real-world metals
